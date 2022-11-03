@@ -29,6 +29,7 @@ sudo apt-get install -y \
         libreadline-dev \
         openssl \
         libssl-dev \
+        libpq-dev \
         liblzma-dev \
         libbz2-dev \
         zlib1g-dev \
